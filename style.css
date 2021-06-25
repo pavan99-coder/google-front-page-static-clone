@@ -1,0 +1,116 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+ul{
+    display: flex;
+    justify-content: flex-end;
+    
+   
+}
+li{
+    list-style: none;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    padding-right: 20px;
+    cursor: pointer;
+}
+i{
+    padding-right: 20px;
+}
+nav{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.google{
+   text-align: center;
+   margin-top: 95px;
+}
+h1{
+    font-size: 115px;
+}
+input{
+    width: 566px;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 14px;
+    height: 45px;
+    border-radius:50px;
+}
+.i-search{
+    margin-left: -547px;
+}
+.i-micro{
+    margin-left: 467px;
+}
+.box{
+    width: 60px;
+    height: 60px;
+    border: 2px solid black;
+    border-radius: 100%;
+  
+    margin-right: 56px;
+    
+  
+}
+.boxes{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
+#youtube{
+    position: absolute;
+   
+    top: 395px;
+    left: 463px;
+    
+}
+#instagram{
+    position: absolute;
+   
+    top: 395px;
+    left: 583px;
+}
+#envelope{
+    position: absolute;
+   
+    top: 395px;
+    left: 697px;
+}
+#plus{
+    position: absolute;
+   
+    top: 395px;
+    left: 815px;
+}
+.text{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
+#Youtube1{
+    position: absolute;
+   
+    top: 446px;
+    left: 449px;
+}
+#instagram1{
+    position: absolute;
+   
+    top: 446px;
+    left: 563px;
+}
+#envelope1{
+    position: absolute;
+   
+    top: 446px;
+    left: 693px;
+}
+#plus1{
+    position: absolute;
+   
+    top: 446px;
+    left: 787px;
+}
